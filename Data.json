@@ -1,0 +1,51 @@
+{
+  
+  "TypesofRice": [
+    {
+      "name": "Basumati",
+      "weight": 4,
+      "price": 240
+    },
+
+    {
+      "name": "Rice1",
+      "weight": 6,
+      "price": 180
+    }
+  ],
+
+  "TypesofPulses": [
+    {
+      "name": "GreenGram",
+      "weight": 8,
+      "price": 100
+    },
+
+    {
+      "name": "HorseGram",
+      "weight": 5,
+      "price": 80
+    }
+  ],
+
+  "TypesofWheat": [
+    {
+      "name": "Wheat1",
+      "weight": 5,
+      "price": 50
+    },
+
+    {
+      "name": "Wheat2",
+      "weight": 10,
+      "price": 120
+    }
+
+    {
+      "name": "Wheat3",
+      "weight": 10,
+      "price": 90
+    }
+  ]
+
+}
