@@ -40,12 +40,12 @@
       "name": "Wheat2",
       "weight": 10,
       "price": 120
-    }
+    },
 
     {
       "name": "Wheat3",
-      "weight": 10,
-      "price": 90
+      "weight": 9,
+      "price": 55
     }
   ]
 
