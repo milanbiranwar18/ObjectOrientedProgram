@@ -20,8 +20,6 @@ namespace InventeryManagment
 
                     return JsonConvert.DeserializeObject<Rice>(json);
 
-
-
                 }
                 catch (Exception)
                 {
