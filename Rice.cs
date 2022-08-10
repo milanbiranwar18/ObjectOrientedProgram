@@ -13,6 +13,7 @@ namespace InventeryManagment
         public List<TypesofWheat> typesofWheat;
     }
 
+
     public class TypesofRice
     {
         public string name;
